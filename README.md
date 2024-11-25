@@ -33,7 +33,7 @@ To run the project, you need to install the required libraries. You can do so by
 Clone the repository:
    ```bash
    git clone https://github.com/csm34/Seattle-Weather-ML-Algorithms.git
-   ```bash
+   ```
 
 ---
 
